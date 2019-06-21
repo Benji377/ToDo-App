@@ -1,0 +1,5 @@
+
+-----New Entry!-----
+Title: Test
+Time: 10:00 - 11:00
+Info: This is a test
